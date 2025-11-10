@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "unicode-bom": "off",
+    "no-eval": "off"
+  }
+}
